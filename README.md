@@ -1,5 +1,8 @@
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
+
 <h1 align="center">Hi 👋, I'm Bandapalli Trinadh</h1>
 <h3 align="center">A passionate Machine Learning and Backend developer from India</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thrinnadhh" alt="thrinnadhh" /></a> </p>
 
